@@ -1,10 +1,10 @@
 # Site settings
-title: Game Programmer
+title: Emil Högstedt
 email: emil.hogstedt@hotmail.com
 url: https://github.com/EmilHogstedt/EmilHogstedt.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The portfolio of Emil Högstedt. I am a M.Sc graduate with a degree in Software- and Game Development. My passion is creating games and experiences for other people to enjoy. I have work experience in all parts of indie game development, and have thorough knowledge of the backend that makes games run."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Gameplay-, UI-, Engine Programmer"
 meta_author: Emil Högstedt
 
 # Google webmaster tools
@@ -32,31 +32,33 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: M.Sc Emil Högstedt
+  location: Karlskrona, Sweden
+  social: My Socials
+  credits: Content added by Emil Högstedt, Template from https://github.com/jeromelachaud/freelancer-theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/emil.hogstedt
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/EmilHogstedt/
+  - title: linkedin
+    url: https://www.linkedin.com/in/emil-hogstedt/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Annebovägen 4C
+  - line: 371 41, Karlskrona, Sweden
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Content added by Emil Högstedt, Template from https://github.com/jeromelachaud/freelancer-theme"
 
 # Build settings
 markdown: kramdown
