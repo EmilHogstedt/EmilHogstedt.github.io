@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: M.Sc Emil Högstedt
-  location: Karlskrona, Sweden
+  location: Located
   social: My Socials
-  credits: Content added by Emil Högstedt, Template from https://github.com/jeromelachaud/freelancer-theme
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
