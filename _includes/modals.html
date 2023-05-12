@@ -23,7 +23,7 @@
                 {% for image in post.img %}
                 {% if image.active %}
                   {% if image.video %}
-                  <div class="item active"></div>
+                  <div class="item active">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
@@ -37,7 +37,7 @@
                   {% endif %}
                 {% else %}
                   {% if image.video %}
-                  <div class="item"></div>
+                  <div class="item">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
