@@ -54,8 +54,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Annebovägen 4C
-  - line: 371 41, Karlskrona, Sweden
+  - line: Karlskrona, Sweden
 
 # Credits content
 credits: "Content added by Emil Högstedt, Template from https://github.com/jeromelachaud/freelancer-theme"
