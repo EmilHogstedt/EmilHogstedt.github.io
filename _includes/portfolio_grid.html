@@ -13,10 +13,11 @@
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
+              <h2>{{ post.title }}</h2>
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img src="img/portfolio/{{ post.imgThumbnail }}" class="img-responsive" alt="{{ post.alt }}"><h2>{{ post.title }}</h2></img>
+          <img src="img/portfolio/{{ post.imgThumbnail }}" class="img-responsive" alt="{{ post.alt }}"></img>
         </a>
       </div>
       {% endfor %}
