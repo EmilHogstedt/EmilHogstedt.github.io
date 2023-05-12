@@ -64,7 +64,9 @@
               </a>
             </div>
             {% if post.description %}
-            <p>{{ post.description }}</p>
+            {% for line in post.description %}
+            <p>{{ line }}</p>
+            {% endfor %}
             {% endif %}
             <ul class="list-inline">
               {% if post.steam %}
