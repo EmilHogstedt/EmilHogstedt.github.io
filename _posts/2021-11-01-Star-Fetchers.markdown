@@ -8,6 +8,8 @@ img:
     - active: true
       link: "StarFetchers_Title.jpg"
     - link: "StarFetchers_Header.jpg"
+    - video: "BaseBuilding.mp4"
+    - video: "Casino.mp4"
 alt: image-alt
 project-date: 2021-2022
 client: Svavelstickan AB
