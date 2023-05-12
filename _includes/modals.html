@@ -19,7 +19,7 @@
             <!-- Carousel for the pictures/gifs-->
             <div style="display:block; height:30em;" id="carousel-example-generic" class="carousel slide" data-ride="carousel">
               <!-- Wrapper for slides -->
-              <div class="carousel-inner" role="listbox">
+              <div class="carousel-inner" role="listbox" style="min-height:100%;">
                 {% for image in post.img %}
                 {% if image.active %}
                   {% if image.video %}
