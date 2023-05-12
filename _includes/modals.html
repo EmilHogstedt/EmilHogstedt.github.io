@@ -23,13 +23,13 @@
                 {% for image in post.img %}
                 {% if image.active %}
                   {% if image.video %}
-                  <div class="item active">
+                  <div class="item active" style="display:grid;align-items:center;">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
                   </div>
                   {% else %}
-                  <div class="item active">
+                  <div class="item active" style="display:grid;align-items:center;">
                     <img src="img/portfolio/{{ image.link }}" class="img-responsive img-centered">
                     <div class="carousel-caption">
                     </div>
@@ -37,13 +37,13 @@
                   {% endif %}
                 {% else %}
                   {% if image.video %}
-                  <div class="item">
+                  <div class="item" style="display:grid;align-items:center;">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
                   </div>
                   {% else %}
-                  <div class="item">
+                  <div class="item" style="display:grid;align-items:center;">
                     <img src="img/portfolio/{{ image.link }}" class="img-responsive img-centered">
                     <div class="carousel-caption">
                     </div>
