@@ -23,13 +23,13 @@
                 {% for image in post.img %}
                 {% if image.active %}
                   {% if image.video %}
-                  <div class="item active" style="display:grid;align-items:center;">
+                  <div class="item active">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
                   </div>
                   {% else %}
-                  <div class="item active" style="display:grid;align-items:center;">
+                  <div class="item active">
                     <img src="img/portfolio/{{ image.link }}" class="img-responsive img-centered">
                     <div class="carousel-caption">
                     </div>
@@ -37,13 +37,13 @@
                   {% endif %}
                 {% else %}
                   {% if image.video %}
-                  <div class="item" style="display:grid;align-items:center;">
+                  <div class="item">
                     <video width="320" height="240" controls class="img-responsive img-centered">
                       <source src="img/portfolio/{{ image.video }}" type="video/mp4">
                     </video>
                   </div>
                   {% else %}
-                  <div class="item" style="display:grid;align-items:center;">
+                  <div class="item">
                     <img src="img/portfolio/{{ image.link }}" class="img-responsive img-centered">
                     <div class="carousel-caption">
                     </div>
@@ -66,6 +66,32 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            <ul class="list-inline">
+              {% if post.steam %}
+              <li>
+                <a href="{{ post.steam }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-steam"></i></a>
+              </li>
+              {% endif %}
+              {% if post.steam-pilot %}
+              <li>
+                <a href="{{ post.steam-pilot }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-steam"></i></a>
+              </li>
+              {% endif %}
+              {% if post.kickstarter %}
+              <li>
+                <a href="{{ post.kickstarter }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-kickstarter"></i></a>
+              </li>
+              {% endif %}
+              {% if post.github %}
+              <li>
+                <a href="{{ post.github }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-github"></i></a>
+              </li>
+              {% endif %}
+            </ul>
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
