@@ -7,8 +7,7 @@ imgThumbnail: StarFetchers_Thumbnail2.jpg
 img:
     - active: true
       link: "StarFetchers_Title.jpg"
-    - active: false
-      link: "StarFetchers_Header.jpg"
+    - link: "StarFetchers_Header.jpg"
 alt: image-alt
 project-date: 2021-2022
 client: Svavelstickan AB
