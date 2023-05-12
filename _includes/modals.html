@@ -24,8 +24,8 @@
                 {% if image.active %}
                   {% if image.video %}
                   <div class="item active"></div>
-                    <video width="320" height="240" autoplay>
-                      <source src="img/portfolio/{{ image.video }}" type="video/mp4">
+                    <video width="320" height="240" controls>
+                      <source src="img/portfolio/{{ image.video }}" type="video/mp4" class="img-responsive img-centered">
                     </video>
                   </div>
                   {% else %}
@@ -38,8 +38,8 @@
                 {% else %}
                   {% if image.video %}
                   <div class="item active"></div>
-                    <video width="320" height="240" autoplay>
-                      <source src="img/portfolio/{{ image.video }}" type="video/mp4">
+                    <video width="320" height="240" controls>
+                      <source src="img/portfolio/{{ image.video }}" type="video/mp4" class="img-responsive img-centered">
                     </video>
                   </div>
                   {% else %}
