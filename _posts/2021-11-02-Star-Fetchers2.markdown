@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Star Fetchers
+title: Star Fetchers2
 modal-id: 2
-date: 2021-11-01
+date: 2021-11-02
 imgThumbnail: StarFetchers/StarFetchers_Thumbnail2.jpg
 img:
     - active: true
