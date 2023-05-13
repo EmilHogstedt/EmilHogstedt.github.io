@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DirectX12 Project
+title: DirectX12 Project OLD
 modal-id: 4
 date: 2020-01-01
 imgThumbnail: DirectX12Project/Thumbnail.png
