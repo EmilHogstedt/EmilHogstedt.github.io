@@ -6,12 +6,12 @@ date: 2021-11-01
 imgThumbnail: ConsoleRaytracer/ConsoleRaytracerThumbnail.png
 img:
     - active: true
-      link: "ConsoleRaytracer/F_CurrentResult.gif"
-    - link: "ConsoleRaytracer/E_RGBCirclesWithBugLines.gif"
-    - link: "ConsoleRaytracer/D_AnsiCircles.gif"
-    - link: "ConsoleRaytracer/C_ASCIISpheresGPU.gif"
-    - link: "ConsoleRaytracer/B_ASCIIShapes.gif"
-    - link: "ConsoleRaytracer/A_ASCII3DWithoutShading.gif"
+      video: "ConsoleRaytracer/F_CurrentResult.mp4"
+    - video: "ConsoleRaytracer/E_RGBCirclesWithBugLines.mp4"
+    - video: "ConsoleRaytracer/D_AnsiCircles.mp4"
+    - video: "ConsoleRaytracer/C_ASCIISpheresGPU.mp4"
+    - video: "ConsoleRaytracer/B_ASCIIShapes.mp4"
+    - video: "ConsoleRaytracer/A_ASCII3DWithoutShading.mp4"
 alt: image-alt
 project-date: 2021-2023
 category: Hobby project - 3D Rendering
