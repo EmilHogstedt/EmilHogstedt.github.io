@@ -21,5 +21,4 @@ description:
     - Our report can be found by pressing the Chrome-icon below.
 languages: C++ - DirectX12 - HLSL
 github: https://github.com/EmilHogstedt/DirectX12Project
-chrome: "..\DirectX12Report.pdf"
 ---
