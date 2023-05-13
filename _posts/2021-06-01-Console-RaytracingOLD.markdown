@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Console Raytracing Renderer
+title: Console RaytracingOLD
 modal-id: 2
 date: 2021-06-01
 imgThumbnail: ConsoleRaytracer/ConsoleRaytracerThumbnail.png

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Star Fetchers2
+title: Console Raytracing
 modal-id: 3
 date: 2021-11-01
 imgThumbnail: StarFetchers/StarFetchers_Thumbnail2.jpg
