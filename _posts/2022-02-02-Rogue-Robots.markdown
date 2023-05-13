@@ -14,7 +14,7 @@ project-date: Q3-Q4 2022
 category: Course project - Large Game Project
 areas: Procedural Generation - Gameplay Programming - Blender Modelling
 description: 
-    - During the first term of my 5th year studying at BTH we were 10 people collaborating on a Large Game Project. During the course of the project we used the Scrum methodology. For the project we had to develop everything from scratch, meaning no pre-made game engine was used.
+    - During the first term of my 5th year studying at BTH we were 10 people collaborating on a Large Game Project for 16 weeks. During the course of the project we used the Scrum methodology. For the project we had to develop everything from scratch, meaning no pre-made game engine was used.
     - The game we developed is called Rogue Robots, which is a Multiplayer Arcade First Person Shooter, where the player and their friends have to cooperate as mining corporation overseers to escape a cave system overrun by corrupt mining robots that the players were overseeing for the corporation. During the game players can find buffs, items, and weapon components that give the player's weapon unique effects to help fight off the hordes of enemies.
     - The engine was made in C++, using DirectX12 to create the rendering pipeline. The shaders (GPU code) were written in HLSL. We also used Lua for gameplay programming.
     - My responsibility and largest contribution to the project was the procedural generation of the levels used in the game. These levels are generated using the Wave Function Collapse algorithm and is used on the fly to generate levels during runtime. The generator uses CPU threads to quicker generate the level by generating all rooms at the same time, and then combining them into the final level.
