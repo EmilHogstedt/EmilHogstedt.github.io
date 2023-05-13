@@ -20,8 +20,6 @@ description:
     - My responsibility and largest contribution to the project was the procedural generation of the levels used in the game. These levels are generated using the Wave Function Collapse algorithm and is used on the fly to generate levels during runtime. The generator uses CPU threads to quicker generate the level by generating all rooms at the same time, and then combining them into the final level.
     - I also took on the responsibility of making sure all our assets were properly made and looked good to be used in the game. I learned Blender where I adjusted the models that we outsourced for our specific needs. I created the terrain used in the procedural generation from scratch and, with help from a teacher at the University, created procedurally generated textures for the terrain.
     - I also implemented gameplay systems and features such as the weapon's component system, and I implemented the functionality of some of the items in the game.
-languages: C# - Lua
-steam: https://store.steampowered.com/app/1234570/Star_Fetchers__Episode_1/
-steam-pilot: https://store.steampowered.com/app/1178030/Star_Fetchers/
-kickstarter: https://www.kickstarter.com/projects/svavelstickan/star-fetchers-episode-1
+languages: C++ - HLSL - Lua
+github: https://github.com/DisorganizedGames/Rogue-Robots
 ---
