@@ -1,19 +1,16 @@
 ---
 layout: default
 title: DirectX12 Project
-modal-id: 6
-date: 2018-01-01
-imgThumbnail: Solaris/Thumbnail.png
+modal-id: 4
+date: 2020-01-01
+imgThumbnail: DirectX12Project/Thumbnail.png
 img:
     - active: true
-      link: "Solaris/FullThumbnail.png"
-    - video: "Solaris/Solaris.mp4"
-    - video: "Solaris/video1.mp4"
-    - video: "Solaris/video2.mp4"
-    - video: "Solaris/video3.mp4"
+      link: "DirectX12Project/Comparison.png"
+    - video: "DirectX12Project/video.mp4"
 alt: image-alt
-project-date: Q1 2021
-category: Course project - Small Game Project
+project-date: Q2 2022
+category: Course project - 3D Programming with DirectX12
 description: 
     - Me and one other student made this project for our DirectX12 course, where we were allowed to choose different 3D Programming techniques to implement using DirectX12. The three techniques we decided to implement were; Vertex Pulling, Frames in Flight, and Inlined Ray Tracing using DirectX Ray Tracing (DXR) 1.1. My chosen technique and responsibility was the Inlined Ray Tracing.
     - My implementation of Inlined Ray Tracing was used to produce the shadows that can be seen in the picture and video above. The picture shows a side-by-side comparison of the result with and without the technique.
