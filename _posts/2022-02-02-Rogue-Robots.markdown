@@ -2,7 +2,7 @@
 layout: default
 title: Rogue Robots
 modal-id: 2
-date: 2022-09-01
+date: 2022-02-02
 imgThumbnail: RogueRobots/Thumbnail.jpg
 img:
     - active: true

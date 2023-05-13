@@ -2,7 +2,7 @@
 layout: default
 title: Console Raytracing
 modal-id: 3
-date: 2021-06-01
+date: 2023-03-03
 imgThumbnail: ConsoleRaytracer/ConsoleRaytracerThumbnail.png
 img:
     - active: true
