@@ -90,6 +90,12 @@
                     class="fa-brands fa-fw fa-github" style="color:black"></i></a>
               </li>
               {% endif %}
+              {% if post.chrome %}
+              <li>
+                <a href="{{ post.chrome }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-chrome" style="color:black"></i></a>
+              </li>
+              {% endif %}
             </ul>
             <ul class="list-inline item-details">
               {% if post.client %}
