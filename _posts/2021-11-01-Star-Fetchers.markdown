@@ -18,8 +18,8 @@ description:
     - While working as a consultant at Blackdrop Interactive I worked at Svavelstickan, where I helped develop features for their upcoming game Star Fetchers.
     - During my time working on the project I contributed to everything from the engine, the physics system, gameplay programming, systems programming, game design and dialog writing.
     - A few notable contributions are; the basebuilding system, the Casino area within the game which I both designed and created from scratch, and the underlying hierarchical UI system used in many menus and gameplay features.
-    - The game can be found on steam and kickstarter.
-languages: C#, Lua
+    - The upcoming game and the free pilot can be found on Steam and Kickstarter.
+languages: C# - Lua
 steam: https://store.steampowered.com/app/1234570/Star_Fetchers__Episode_1/
 steam-pilot: https://store.steampowered.com/app/1178030/Star_Fetchers/
 kickstarter: https://www.kickstarter.com/projects/svavelstickan/star-fetchers-episode-1
