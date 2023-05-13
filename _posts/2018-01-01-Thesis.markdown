@@ -1,0 +1,19 @@
+---
+layout: default
+title: Master Thesis
+modal-id: 6
+date: 2018-01-01
+imgThumbnail: Thesis/Thumbnail.jpg
+img:
+    - active: true
+      link: "Thesis/Thumbnail.jpg"
+alt: image-alt
+project-date: Q1-Q3 2023
+category: Master Thesis - Cooperative Modular Neural Networks for Artificial Intelligence in Games
+description: 
+    - My master thesis written together with Ove Ødegård. Supervisor for the project was Ilir Jusufi and Co-supervisor was Svavelstickan AB.
+    - In our thesis we explore a new way of thinking when it comes to using neural networks in games. Instead of using a singular neural network, tasked with achieving a goal, we use multiple modular neural networks cooperatively. The modular networks are in our case tasked with predicting the state of the game a certain amount of time in the future, such as the player position or how the terrain will look. The modular parts of the network are able to be re-used with other combinations of modular networks, reducing training time in the long run while increasing the network's performance at its task.
+    - In our environment, the agent that is using the network is tasked with navigating a two-dimensional environment in the game Star Fetchers, which I have previously worked on and reference both in my CV and portfolio.
+    - The thesis can be accessed by pressing the X-icon below. PS; The thesis is not yet complete and can therefore not be accessed here yet. It will be uploaded as soon as it is done.
+languages: C#
+---
