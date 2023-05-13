@@ -20,5 +20,6 @@ description:
     - To be able to perform Inlined Ray Tracing in the shaders using HLSL the Ray Tracing Acceleration structures first need to be set up on the CPU, which is the bulk of the time spent implementing this technique. Essentially these hold the data of the objects that are to be traced in the shader.
     - Our report can be found by pressing the Chrome-icon below.
 languages: C++ - DirectX12 - HLSL
-github: https://github.com/ove1kenobi/solaris
+github: https://github.com/EmilHogstedt/DirectX12Project
+chrome: "..\DirectX12Report.pdf"
 ---
