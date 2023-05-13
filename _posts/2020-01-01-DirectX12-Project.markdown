@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DirectX12 Project
-modal-id: 4
+modal-id: 7
 date: 2020-01-01
 imgThumbnail: DirectX12Project/Thumbnail.png
 img:
