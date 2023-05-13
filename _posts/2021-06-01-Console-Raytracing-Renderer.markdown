@@ -6,7 +6,8 @@ date: 2021-06-01
 imgThumbnail: ConsoleRaytracer/ConsoleRaytracerThumbnail.png
 img:
     - active: true
-      video: "ConsoleRaytracer/F_CurrentResult.mp4"
+      link: "ConsoleRaytracer/ConsoleRaytracerThumbnail.png"
+    - video: "ConsoleRaytracer/F_CurrentResult.mp4"
     - video: "ConsoleRaytracer/E_RGBCirclesWithBugLines.mp4"
     - video: "ConsoleRaytracer/D_AnsiCircles.mp4"
     - video: "ConsoleRaytracer/C_ASCIISpheresGPU.mp4"
