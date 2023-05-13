@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SolarisDUMMY
+title: DirectX12 Project
 modal-id: 6
 date: 2018-01-01
 imgThumbnail: Solaris/Thumbnail.png
