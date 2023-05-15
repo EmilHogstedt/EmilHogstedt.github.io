@@ -1,6 +1,6 @@
 # Site settings
 title: Emil Högstedt
-email: emil.hogstedt@hotmail.com
+email: none
 url: https://github.com/EmilHogstedt/EmilHogstedt.github.io
 description: "The portfolio of Emil Högstedt. I am a M.Sc graduate with a degree in Software- and Game Development. My passion is creating games and experiences for other people to enjoy. I have work experience in all parts of indie game development, and have thorough knowledge of the backend that makes games run."
 keywords: "your keywords, separated by commas"
@@ -57,7 +57,7 @@ address:
   - line: Karlskrona, Sweden
 
 # Credits content
-credits: "Content added by Emil Högstedt. Template from https://github.com/jeromelachaud/freelancer-theme, with a few changes by Emil Högstedt."
+credits: "Content added by Emil Högstedt. Template based on https://github.com/jeromelachaud/freelancer-theme."
 
 # Build settings
 markdown: kramdown
