@@ -6,9 +6,9 @@ date: 2023-03-03
 imgThumbnail: HotelArchitect/thumbnail.jpg
 img:
     - active: true
-      link: "StarFetchers/thumbnail.jpg"
-    - link: "StarFetchers/img1.jpg"
-    - link: "StarFetchers/img2.jpg"
+      link: "HotelArchitect/thumbnail.jpg"
+    - link: "HotelArchitect/img1.jpg"
+    - link: "HotelArchitect/img2.jpg"
 alt: image-alt
 project-date: 2023-Current
 company: Pathos Interactive AB
